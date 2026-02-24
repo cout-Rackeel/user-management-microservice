@@ -1,0 +1,16 @@
+.venv/
+
+*.pyc
+__pycache__/
+
+instance/
+
+.pytest_cache/
+.coverage
+htmlcov/
+tempCodeRunnerFile.py
+UMMS.db
+
+dist/
+build/
+*.egg-info/
