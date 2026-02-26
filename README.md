@@ -64,9 +64,9 @@ cd user-management-microservice
 
 ### 2. Configure Virtual Environment
 ```bash
-python3 -m venv .venv
+python -m venv .venv
 source .venv/bin/activate   # Linux/macOS
-.venv\Scripts\activate      # Windows PowerShell
+.venv/Scripts/activate      # Windows PowerShell
 ```
 
 ### 3. Install Dependencies
