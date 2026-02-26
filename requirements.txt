@@ -1,3 +1,4 @@
-pip install flask
-pip install flask_jwt_extended 
+flask 
+flask_jwt_extended;
+
 
